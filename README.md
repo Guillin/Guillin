@@ -1,4 +1,10 @@
-### Hi there 👋
+* 👋 Hi There, I’m @Guillin
+* 👀 I’m interested in Machine Learning and Data Science.
+* 🤖 I’m currently learning Deep Learning with a main focus on recommender systems.
+* 🚀 I’m looking to collaborate in some awesome project.
+* 📫 How to reach me: guillermo.lissa@gmail.com
+
+
 
 <!--
 **Guillin/Guillin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
