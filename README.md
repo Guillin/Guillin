@@ -1,4 +1,4 @@
-* 👋 Hi There, I’m @Guillin
+* 👋 Hi There, I’m @guillermolissa
 * 👀 I’m interested in Machine Learning and Data Science.
 * 🤖 I’m currently learning Deep Learning with a main focus on recommender systems.
 * 🚀 I’m looking to collaborate in some awesome project.
